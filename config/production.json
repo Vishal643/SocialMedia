@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb+srv://vishal_123:vishal_123@developers-bjebn.mongodb.net/test?retryWrites=true&w=majority",
+  "mongoLocalURI": "mongodb://localhost:27017/Developers",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "03e06937d5dbc9fddfcd",
+  "githubSecret": "aa23c1e8a4b847fdf5e3223f92db1fdde558e535"
+}
